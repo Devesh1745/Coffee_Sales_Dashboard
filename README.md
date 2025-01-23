@@ -26,7 +26,7 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 ---
 ## Tools & library -
 
-<img src="https://github.com/gokuljujgar07/Coffee_Sales_Dashboard/blob/main/excel.jpg" alt="logo" width="200" height="100"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcoffee&psig=AOvVaw2Cw380BLw_YLl5V4P1MCN7&ust=1737722277755000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjPhI3ui4sDFQAAAAAdAAAAABAE" alt="logo" width="200" height="100"/>
 
 
 # Data Story -
