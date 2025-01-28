@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Devesh1745/Coffee_Sales_Dashboard/blob/main/istockphoto-1467739359-612x612.jpg" alt="logo" width="400" height="250"/>
 
 
 
@@ -25,8 +25,8 @@ Discount Strategies: Introduce discounts or promotional offers on low-performing
 
 ---
 ## Tools & library -
+Microsoft Excel
 
-<img src="https://github.com/Devesh1745/Coffee_Sales_Dashboard/blob/main/istockphoto-1467739359-612x612.jpg" alt="logo" width="400" height="250"/>
 
 
 # Data Story -
