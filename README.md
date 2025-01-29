@@ -30,7 +30,7 @@ Microsoft Excel
 
 
 # Data Story -
-# This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
+#### This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
 
 # Screenshot -
