@@ -1,11 +1,6 @@
-<img src="https://github.com/Devesh1745/Coffee_Sales_Dashboard/blob/main/istockphoto-1467739359-612x612.jpg" alt="logo" width="1000" height="600"/>
-
-
-
-
 
 # Coffee-Sales-Dashboard
-
+<img src="https://github.com/Devesh1745/Coffee_Sales_Dashboard/blob/main/istockphoto-1467739359-612x612.jpg" alt="logo" width="1000" height="600"/>
 This dashboard presents insights to the regional manager of a coffee chain with three stores. The goal is to provide actionable insights to optimize operations across the stores.
 
 ---
