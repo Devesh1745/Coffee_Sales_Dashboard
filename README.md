@@ -29,11 +29,11 @@ Microsoft Excel
 
 
 
-# Data Story -
+## Data Story -
 #### This dashboard was designed to support strategic discussions with higher-ups and provide a clear, data-driven understanding of store performance. The goal is to help identify opportunities for growth and cost optimization.
 
 
-# Screenshot -
+## Screenshot -
 
 <img src="https://github.com/Devesh1745/Coffee_Sales_Dashboard/blob/main/coffee%20ss.PNG" alt="myql-logo" width="1000" height="500"/>
 
